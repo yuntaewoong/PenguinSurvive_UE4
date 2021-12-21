@@ -8,11 +8,16 @@
 
 ## Description
 엔진 : 언리얼 엔진 4.25.4
+
 협업 툴 : Perforce
+
 개발 언어 : C++, BluePrint
+
 개발 기간:(21.10.15~21.12.20)
 
+
 Team: 
+
 [윤태웅](https://github.com/yuntaewoong)
 
 [강수한](https://github.com/tngksdlstk12)
