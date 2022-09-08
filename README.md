@@ -2,9 +2,11 @@
 # PenguinSurvive_UE4
 
 2021년 2학기 게임PX디자인 수업 Term Project
+- [YouTube Link](https://www.youtube.com/watch?v=ojnVU33b2Os) 
 
 ![](Image/main.png)
 ![](Image/inventory.png)
+
 
 # Download
  - exe: https://drive.google.com/file/d/1ehUG6MrUz1Ain032-AYAvxACV54Tsop8/view?usp=sharing
